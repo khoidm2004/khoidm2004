@@ -27,6 +27,6 @@ I am Khoi Do, an ambitious student hailing from Vietnam and currently residing i
 ---
 
 # 📫 Contact me
-<a target="blank" href="https://www.linkedin.com/in/minh-khoi-do-827525253/"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"></a>
-<a target="blank" href="mailto:khoidm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/minh-khoi-do-827525253/"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:khoidm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
