@@ -8,7 +8,7 @@ I am Khoi Do, an ambitious student hailing from Vietnam and currently residing i
 
 ---
 
-#💻 Tech Stacks
+# 💻 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white">
