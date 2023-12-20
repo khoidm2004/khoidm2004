@@ -20,6 +20,7 @@ I am Khoi Do, an ambitious student hailing from Vietnam and currently residing i
   <img src="https://img.shields.io/badge/Vite-DA70D6?style=for-the-badge&logo=vite&logoColor=gold">
   <img src="https://img.shields.io/badge/Node.js-9ACD32?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8B4513?style=for-the-badge&logo=mocha&logoColor=white">
+  <img src="https://img.shields.io/badge/Chai-8B4513?style=for-the-badge&logo=chai">
   <img src="https://img.shields.io/badge/Selenium-D3D3D3?style=for-the-badge&logo=selenium">
   <img src="https://img.shields.io/badge/SQLite-D3D3D3?style=for-the-badge&logo=sqlite&logoColor=deepskyblue">
 </p>
