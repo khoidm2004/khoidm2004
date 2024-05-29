@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi👋
 **`Junior Software Engineer`**
 
 I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
