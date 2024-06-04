@@ -24,6 +24,7 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
   <img src="https://img.shields.io/badge/Selenium-D3D3D3?style=for-the-badge&logo=selenium">
   <img src="https://img.shields.io/badge/SQLite-D3D3D3?style=for-the-badge&logo=sqlite&logoColor=deepskyblue">
   <img src="https://img.shields.io/badge/MySQL%20-%20%23000?style=for-the-badge&logo=mysql&labelColor=%2300bbf0&color=%2300bbf0">
+  <img src="https://img.shields.io/badge/Firebase-%23FF6347?style=for-the-badge&logo=firebase">
   
 </p>
 
