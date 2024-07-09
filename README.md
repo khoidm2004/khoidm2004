@@ -31,6 +31,6 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
 ---
 
 # 📫 Contact me
-<a href="https://www.linkedin.com/in/minh-khoi-do-827525253/"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/minh-khoi-do-827525253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:khoidm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
