@@ -21,6 +21,7 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
   <img src="https://img.shields.io/badge/Node.js-9ACD32?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8B4513?style=for-the-badge&logo=mocha&logoColor=white">
   <img src="https://img.shields.io/badge/Chai-8B4513?style=for-the-badge&logo=chai">
+  <img src="https://img.shields.io/badge/Jest-%23f95959?style=for-the-badge&logo=jest">
   <img src="https://img.shields.io/badge/Selenium-D3D3D3?style=for-the-badge&logo=selenium">
   <img src="https://img.shields.io/badge/SQLite-D3D3D3?style=for-the-badge&logo=sqlite&logoColor=deepskyblue">
   <img src="https://img.shields.io/badge/MySQL%20-%20%23000?style=for-the-badge&logo=mysql&labelColor=%2300bbf0&color=%2300bbf0">
