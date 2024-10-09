@@ -7,7 +7,7 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
 - 🎯 Targets: Eager to Learn and Contribute
 
 ---
-<picture align="left" width="47%" margin>
+<picture align="left" width="47%">
   <img alt="my stats"  src="https://github-readme-stats.vercel.app/api?username=khoidm2004&show_icons=true&hide_rank=true"/>
 </picture>
 <picture align="left">
