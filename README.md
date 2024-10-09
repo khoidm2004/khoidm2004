@@ -7,7 +7,14 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
 - 🎯 Targets: Eager to Learn and Contribute
 
 ---
+<picture align="left" width="47%" margin>
+  <img alt="my stats"  src="https://github-readme-stats.vercel.app/api?username=khoidm2004&show_icons=true&hide_rank=true"/>
+</picture>
+<picture align="left">
+  <img alt="toplangs" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoidm2004&layout=compact&theme=tokyongight"/>
+</picture>
 
+---
 # 💻 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python">
