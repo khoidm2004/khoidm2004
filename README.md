@@ -33,7 +33,9 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
   <img src="https://img.shields.io/badge/sqlite-%234289e9?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL%20-%20%23000?style=for-the-badge&logo=mysql&labelColor=%2300bbf0&color=%2300bbf0">
   <img src="https://img.shields.io/badge/Firebase-%23FF6347?style=for-the-badge&logo=firebase">
-  
+ <img src="https://img.shields.io/badge/Raspberry%20Pi-%237FFF00?style=for-the-badge&logo=raspberrypi&logoColor=%23DC143C">
+
+
 </p>
 
 ---
