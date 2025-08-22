@@ -3,7 +3,7 @@
 
 I am Khoi Do, an ambitious student from Vietnam currently residing in Finland.
 
-- 🌱 I’m currently pursuing Bachelor's Degree in Industrial Information Technology at [@LAB UAS](https://lab.fi/en)
+- 🌱 I’m currently pursuing Bachelor's Degree in Industrial Information Technology and working as a Project Coordinator at [@LAB UAS](https://lab.fi/en)
 - 🎯 Targets: Eager to Learn and Contribute
 
 ---
