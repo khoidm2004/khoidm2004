@@ -10,9 +10,6 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland
 <picture align="left">
   <img alt="my stats"  src="https://github-readme-stats.vercel.app/api?username=khoidm2004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=true"/>
 </picture>
-<picture align="left">
-  <img alt="top langs" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoidm2004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-</picture>
 
 ---
 # 💻 Tech Stacks
