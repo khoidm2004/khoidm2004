@@ -18,27 +18,76 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland
 # 💻 Tech Stacks
 
 ### **Core Technologies**
-[![Core Technologies](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+<p>
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />         
+</p>
+
+<br/>
+<br/>
+<br/>
 
 ### **Frontend Frameworks & Styling UI**
-[![Frontend Frameworks & Styling UI](https://skillicons.dev/icons?i=react,vite,tailwind,materialui)](https://skillicons.dev)
+<p>
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />        
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg" />          
+</p>
+
+<br/>
+<br/>
+<br/>
 
 ### **Backend & Databases**
-[![Backend & Database](https://skillicons.dev/icons?i=nodejs,express,firebase,sqlite,mysql)](https://skillicons.dev)
+<p>
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />        
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />  
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />        
+</p>
+
+<br/>
+<br/>
+<br/>
 
 ### **Testing Frameworks**
-[![Testing Frameworks](https://skillicons.dev/icons?i=jest,selenium)](https://skillicons.dev)
+<p>
+  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />      
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />      
+</p>
+
+<br/>
+<br/>  
+<br/>
 
 ### **Cloud & Deployment**
-[![Cloud & Deployment](https://skillicons.dev/icons?i=githubactions,vercel,firebase,azure)](https://skillicons.dev)
+<p>
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />     
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />         
+</p>
 
+<br/>
+<br/>
+<br/>
 
 ### **Others**
-[![Cloud & Deployment](https://skillicons.dev/icons?i=github,gitlab,figma,raspberrypi,discord)](https://skillicons.dev)
+<p>
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />  
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /> 
+  <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />          
+</p>
+
+<br/>
+<br/>
+<br/>
 
 ---
 
 # 📫 Contact me
-<a href="https://www.linkedin.com/in/minh-khoi-do-827525253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:khoidm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/minh-khoi-do-827525253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:khoidm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
