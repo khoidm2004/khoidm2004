@@ -1,10 +1,11 @@
-# Hi👋
-**`Junior Software Engineer`**
+# Hi, I'm Khoi Do👋
 
-I am Khoi Do, an ambitious student from Vietnam currently residing in Finland
+I'm a **Junior Software Engineer** with 2 years of experience in full-stack web development, software tesing and cloud technologies. I’m a versatile engineer with hands-on skills in web development, IoT, game development, and automation, always eager to learn and contribute to impactful projects.
 
-- 🌱 Bachelor’s student in Industrial Information Technology & Project Coordinator at [@LAB UAS](https://lab.fi/en)
-- 🎯 Targets: Eager to Learn and Contribute
+- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/khoi-do04/)
+- 📧 Email: khoidm2004@gmail.com
+- 📍Currently: Completed Bachelor of Engineering, Industrial Information Technology at [@LAB UAS](https://lab.fi/en)
+- 🎯 Targets: Looking for my first full-time Junior Software Engineer position, eager to learn and contribute
 
 ---
 <p align="left">
@@ -86,8 +87,16 @@ I am Khoi Do, an ambitious student from Vietnam currently residing in Finland
 <br/>
 
 ---
+# My Expertise
+🚀  **Full-Stack Development**: Creating end-to-end web applications from UI to backend services. <br/>
+☁︎  **Cloud Solutions**: Microsoft Azure, serverless architecture and scalable cloud backends.<br/>
+🤖  **AI**: Integrating LLMs into workflows to to improve performance and workflow efficiency. <br/>
+✔️  **Software Testing**: Covering unit tests, integration tests, and user flows.<br/>
+♾️  **DevOps & CI/CD**: Automating pipelines, testing, and deployments. <br/>
+🛠️  **Versatile**: Fast learner with strong adaptability
 
-# 📫 Contact me
-<a href="https://www.linkedin.com/in/minh-khoi-do-827525253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin"/>
-<a href="mailto:khoidm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+---
+
+# 🤝 Let’s Connect
+Open to projects, startups, or job opportunities — let’s connect!
 
