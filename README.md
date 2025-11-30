@@ -88,11 +88,11 @@ I'm a **Junior Software Engineer** with 2 years of experience in full-stack web 
 
 ---
 # My Expertise
-🚀  **Full-Stack Development**: Creating end-to-end web applications from UI to backend services. <br/>
-☁︎  **Cloud Solutions**: Microsoft Azure, serverless architecture, and scalable cloud backends.<br/>
-🤖  **AI**: Integrating LLMs into workflows to improve performance and workflow efficiency. <br/>
-✔️  **Software Testing**: Covering unit tests, integration tests, and user flows.<br/>
-♾️  **DevOps & CI/CD**: Automating pipelines, testing, and deployments. <br/>
+🚀  **Full-Stack Development**: Creating end-to-end web applications from UI to backend services <br/>
+☁︎  **Cloud Solutions**: Microsoft Azure, serverless architecture, and scalable cloud backends <br/>
+🤖  **AI**: Integrating LLMs into workflows to improve performance and workflow efficiency <br/>
+✔️  **Software Testing**: Covering unit tests, integration tests, and user flows <br/>
+♾️  **DevOps & CI/CD**: Automating pipelines, testing, and deployments <br/>
 🛠️  **Versatile**: Fast learner with strong adaptability
 
 ---
