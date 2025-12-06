@@ -93,7 +93,7 @@ I'm a **Junior Software Engineer** with 2 years of experience in full-stack web 
 🤖  **AI**: Integrating LLMs into workflows to improve performance and workflow efficiency <br/>
 ✔️  **Software Testing**: Covering unit tests, integration tests, and user flows <br/>
 ♾️  **DevOps & CI/CD**: Automating pipelines, testing, and deployments <br/>
-🛠️  **Versatile**: Fast learner with strong adaptability
+🛠️  **Versatile**: Fast learner with strong adaptability <br/>
 
 ---
 
