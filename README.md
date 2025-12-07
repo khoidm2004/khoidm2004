@@ -98,5 +98,5 @@ I'm a **Junior Software Engineer** with 2 years of experience in full-stack web 
 ---
 
 # 🤝 Let’s Connect
-Open to projects, startups, or job opportunities — let’s connect!
+Open to projects, startups, or job opportunities — let’s connect!<br/>
 
