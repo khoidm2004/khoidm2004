@@ -1,6 +1,6 @@
 # Hi, I'm Khoi Do👋
 
-I'm a **Junior Software Engineer** with 2 years of experience in full-stack web development, software testing, and cloud technologies. I’m a versatile engineer with hands-on skills in RDI, web development, IoT, game development, automation, and PLC programming always eager to learn and contribute to impactful projects.
+I'm a `Junior Software Engineer` with 2 years of experience in full-stack web development, software testing, and cloud technologies. I’m a versatile engineer with hands-on skills in RDI, web development, IoT, game development, automation, and PLC programming always eager to learn and contribute to impactful projects.
 
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/khoi-do04/)
 - 📧 Email: khoidm2004@gmail.com
