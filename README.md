@@ -63,7 +63,7 @@ I'm a `Junior Software Engineer` with 3 years of experience in full-stack web de
 <br/>  
 <br/>
 
-### **Cloud & Deployment**
+### **DevOps**
 <p>
   <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />     
   <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
