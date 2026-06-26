@@ -4,7 +4,7 @@ I'm a `Junior Software Engineer` with 3 years of experience in full-stack web de
 
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/khoi-do04/)
 - 📧 Email: khoidm2004@gmail.com
-- 🎓 Graduated: Completed Bachelor of Engineering, Industrial Information Technology at [@LAB UAS](https://lab.fi/en)
+- 🎓 Graduated: Bachelor of Engineering, Industrial Information Technology at [@LAB UAS](https://lab.fi/en)
 - 📍 Currently: Master of Science, Software, Web & Cloud, Computing Sciences and Electrical Engineering at [@Tampere University](https://www.tuni.fi/en)
 - 🎯 Targets: Looking for my first full-time Junior Software Engineer position
 
