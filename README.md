@@ -6,7 +6,7 @@ I'm a `Junior Software Engineer` with 3 years of experience in full-stack web de
 - 📧 Email: khoidm2004@gmail.com
 - 🎓 Graduated: Bachelor of Engineering, Industrial Information Technology at [@LAB UAS](https://lab.fi/en)
 - 📍 Currently: Master of Science, Software, Web & Cloud, Computing Sciences and Electrical Engineering at [@Tampere University](https://www.tuni.fi/en)
-- 🎯 Target: Looking for my first full-time Junior Software Engineer position,
+- 🎯 Target: Looking for my first full-time Junior Software Engineer position
 
 ---
 <p align="left">
