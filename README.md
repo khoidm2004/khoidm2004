@@ -4,7 +4,7 @@ I'm a `Software Engineer` with 3 years of experience in full-stack web developme
 
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/khoi-do04/)
 - 📧 Email: khoidm2004@gmail.com
-- 🎓 Graduated: Bachelor of Engineering, Industrial Information Technology at [@LAB UAS](https://lab.fi/en)
+- 🎓 Graduated: Bachelor of Engineering, Industrial Information Technology at [@LAB University of Applied Sciences](https://lab.fi/en)
 - 📍 Currently: Master of Science, Software, Web & Cloud, Computing Sciences and Electrical Engineering at [@Tampere University](https://www.tuni.fi/en)
 - 🎯 Target: Looking for my first full-time Software Engineer position
 
