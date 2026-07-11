@@ -92,7 +92,7 @@ I'm a `Software Engineer` with 3 years of experience in full-stack web developme
 # My Expertise
 🚀  **Full-Stack Cross-Platform Development**: Creating end-to-end cross-platform applications from UI to backend services <br/>
 ☁️  **Cloud Solutions**: Microsoft Azure, serverless architecture, and scalable cloud backends <br/>
-🤖  **AI**: Integrating LLMs into workflows to improve performance and workflow efficiency <br/>
+🤖  **AI**: Designing multi-agent LLM pipelines to improve efficiency and reduce manual work <br/>
 ✔️  **Software Testing**: Covering unit tests, integration tests, and user flows <br/>
 ♾️  **DevOps & CI/CD**: Automating pipelines, testing, and deployments <br/>
 🛠️  **Versatile**: Fast learner with strong adaptability <br/>
