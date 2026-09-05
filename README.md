@@ -1,4 +1,4 @@
-# Hi, I'm Khoi Do👋
+# Hi, I'm Khoi Do👋.
 
 I'm a `Software Engineer` with 3 years of experience in full-stack web development, software testing, and cloud technologies. I’m a versatile engineer with hands-on skills in RDI, cross-platform development, IoT, and AI-powered application development, always eager to learn and contribute to impactful projects
 
