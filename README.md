@@ -10,7 +10,8 @@ I'm a `Software Engineer` with 3 years of experience in full-stack web developme
 
 ---
 <p align="left">
-  <img alt="streak" width="420" src="https://streak-stats.demolab.com?user=khoidm2004&theme=tokyonight&hide_border=true"/>
+  <img alt="programming_lang" width="300" src="https://github-stats-extended.vercel.app/api/top-langs?username=khoidm2004&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img alt="streak" width="395" src="https://github-stats-extended.vercel.app/api?username=khoidm2004&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight"/>
 </p>
 
 
